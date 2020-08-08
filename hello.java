@@ -4,6 +4,7 @@ class hello
 	{
 		for (int i=0;i<=10;i++)
 			System.out.println("Hello sahil");
+			System.out.println("Jenkins Practice");
 	}
 
 }
